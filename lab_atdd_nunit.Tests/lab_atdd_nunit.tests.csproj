@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.13.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="Specflow.nunit" Version="3.8.14" />
+    <PackageReference Include="Specflow.plus.livingdocplugin" Version="3.8.35" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\lab_atdd_nunit.domain\lab_atdd_nunit.domain.csproj" />
+  </ItemGroup>
+
+</Project>
