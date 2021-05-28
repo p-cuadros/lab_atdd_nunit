@@ -5,12 +5,12 @@ Scenario: Suma dos numeros positivos el resultado es correcto
 	When yo sumo
 	Then el resultado deberia ser 5
 
-Scenario: Suma un numero negativo con uno positivo
+Scenario: Suma un numero negativo con uno positivo deberia ser error
 	Given los numeros -1 y 3
 	When yo sumo
 	Then deberia ser error
 
-Scenario: Suma dos numeros negativos
+Scenario: Suma dos numeros negativos deberia ser error y mostrar mensaje
 	Given los numeros -1 y -3
 	When yo sumo
 	Then deberia ser error
