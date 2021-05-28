@@ -2,6 +2,9 @@
 
 namespace lab_atdd_nunit.domain
 {
+    /// <summary>
+    /// Clase Calculadora
+    /// </summary>
     public class Calculadora
     {
         public const string _SUMANDO_NEGATIVO = "Uno de los sumandos es negativo, no se puede realizar la suma";
