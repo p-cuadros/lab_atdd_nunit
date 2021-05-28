@@ -1,9 +1,0 @@
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\bin\Debug\netstandard2.0\lab_atdd_nunit.domain.deps.json
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\bin\Debug\netstandard2.0\lab_atdd_nunit.domain.dll
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\bin\Debug\netstandard2.0\lab_atdd_nunit.domain.pdb
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\obj\Debug\netstandard2.0\lab_atdd_nunit.domain.csprojAssemblyReference.cache
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\obj\Debug\netstandard2.0\lab_atdd_nunit.domain.AssemblyInfoInputs.cache
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\obj\Debug\netstandard2.0\lab_atdd_nunit.domain.AssemblyInfo.cs
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\obj\Debug\netstandard2.0\lab_atdd_nunit.domain.csproj.CoreCompileInputs.cache
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\obj\Debug\netstandard2.0\lab_atdd_nunit.domain.dll
-D:\proyectos\netcore\lab_atdd_nunit\lab_atdd_nunit.domain\obj\Debug\netstandard2.0\lab_atdd_nunit.domain.pdb
